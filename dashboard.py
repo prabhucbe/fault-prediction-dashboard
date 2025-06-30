@@ -8,7 +8,7 @@ st.set_page_config(page_title="Fault Prediction Dashboard", layout="wide")
 
 import pandas as pd
 import numpy as np
-import joblib
+#import joblib
 
 st.title("📈 Real-Time Fault Prediction Dashboard")
 
